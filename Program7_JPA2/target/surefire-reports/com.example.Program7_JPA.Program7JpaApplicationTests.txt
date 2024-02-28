@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.Program7_JPA.Program7JpaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.471 s -- in com.example.Program7_JPA.Program7JpaApplicationTests
