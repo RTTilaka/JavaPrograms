@@ -1,6 +1,6 @@
 #Start the Minikube Cluster
 
-minikube start
+minikube start --driver=docker
 
 #Verify Minikube status
 
@@ -13,6 +13,8 @@ eval $(minikube docker-env)
 #Build the Docker image into the Docker Environment
 
 docker build -t myprg10 .
+
+docker images
 
 #Create the YAML file
 
