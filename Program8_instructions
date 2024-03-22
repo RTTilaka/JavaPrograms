@@ -1,0 +1,5 @@
+sudo docker build -t eclipse .
+
+sudo docker images
+
+sudo docker run -p 8080:8080 eclipse
